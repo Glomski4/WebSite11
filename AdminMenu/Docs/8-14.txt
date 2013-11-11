@@ -1,0 +1,44 @@
+﻿Loan Service Center
+6161 E. Grant Rd #24204
+Tucson, AZ 85712
+1-800-584-4690
+
+
+
+
+     (B1_First) (B1_Middle) (B1_Last) (B1_Suf)
+     (B2_First) (B2_Middle) (B2_Last) (B2_Suf)
+     (Address1)
+     (Address2)
+     (City), (State) (Zip)
+
+
+
+
+
+Dear (B1_First) (B1_Middle) (B1_Last) (B1_Suf),
+
+We have look at your loan and see that you are past due, We would like to help.
+
+We can offer you a modification of your loan to bring you current and make your next payment due {NewDueDate}.
+
+To do this here are the steps we would take.
+   1. Roll your accrued interest of ${AccrInt} 
+      Into your current principal balance of ${CurPrin} 
+      Making your new loan balance ${NewBal}.
+   2. Adjust your number of payments left to {NewMthsLeft}
+      Your current loan has {CurrPmtsLeft}
+   3. Adjust your interest rate to {NewIntRate}%
+      Your current interest rate is {CurrIntRate}%
+   4. Doing all of this will make your payment starting {NewDueDate} be ${NewPmtAmt}
+
+If you would like to complete this modifications please call us.
+
+If you have any questions just call us 24/7 at 1-800-584-4690
+
+When you call please refer to you account number (LoanID)
+               
+
+Sincerely, 
+Loan Service Center
+Billing Department    

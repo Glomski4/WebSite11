@@ -1,0 +1,24 @@
+﻿Loan Service Center
+6161 E. Grant Rd #24204
+Tucson, AZ 85712
+1-800-584-4690
+
+         (B1_First) (B1_Middle) (B1_Last) (B1_Suf)
+         (B2_First) (B2_Middle) (B2_Last) (B2_Suf)
+         (Address1)
+         (Address2)
+         (City), (State) (Zip)
+
+
+Dear (B1_First) (B1_Middle) (B1_Last) (B1_Suf),
+         Enclosed is documents that you have ordered.
+         If you have any questions just call us 24/7 at 1-800-584-4690
+         When you call please refer to your account number (LoanID).
+
+                     Thanks,
+                     Loan Service
+
+
+
+
+

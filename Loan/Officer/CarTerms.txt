@@ -1,0 +1,62 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+										012345678901234567890
+
+Stock No.	[CarID]
+
+                                    		|
+	Seller/Creditor:				|	Buyer(s)/Debtor(s):
+						|	[Name1]
+	Center of Tucson				|	[Name2]
+	6161 E. Grant RD #24204			|	[Address1]
+	Tucson, AZ 85712				|	[Address2]
+						|	[City], [State] [Zip]
+
+
+This is an agreement for the installment purchase by you of the Vehicle described below. As used in this Contract, the works "you" and your" mean the Buyer or Buyers who sign below. The words "we","us","our" and "Seller" refer to the seller whose name and address appear above. BY SIGNING BELOW, YOU ALSO AGREE TO ALL OF THE TERMS OF THIS CONTRACT, PLEASE READ CAREFULLY.
+
+> The Vehicle which you are purchasing is a:
+Used, [Year] [Make] [Model]
+
+You intend to use the Vehicle primarily for : [X] personal, family, or household purposes ("personal use") [ ] commercial, business, agricultural, or other non-personal uses ("commercial use")
+
+> Your payment schedule will be:
+Number of Payments = [NoOfPmts]
+Amount of Payments = [MonthlyPmt]
+Monthly, Beginning = [FirstPmtDate]
+
+
+Annual Percentage Rate 		[IntRate]
+Finance Charge 			[FinCharge]e
+Amount Financed			[LoanAmt]
+Totals of Payments		[T_Pmts]e
+Down Payment			[DownPmt]
+Total Sale Price			[T_Cost]e | Including down payment
+				e means an estimate
+
+> Security: You are giving a security interest in the Vehicle being purchased.
+
+> Late Charge: If the Vehicle is purchased for personal use, and a paymetns is not paid in full within [LCDate] days after it is due, you will pay a late charge of the greater of $25.00 or [LCPer] of the monthly payment.
+
+> Perpayment: If you pay off early, you will not have to pay a pennalty.
+
+> Promise to Pay: By signing below, you promise to pay us the Amount Financed, together with finance charges calculated thereon at the Annual Percentage Rate. You agree to make your payments to us set forth in the Payment Schedule shown above. Your final payment may change, depending upon your payment habits. We will apply each payment first to accrued finance charges and late charges and then to reduce your unpaid balance. This means your finance charge will be less when you pay early and more if you pay late. Any necessary adjustments in your total finance charge will be reflected in your final payment.
+
+> Security Interest: To protect us if you do not pay as promised, or if you break some other promise of this Contract, you give us a purchase money security interest in the Vehicel, all accessions thereto, and in any proceeds of the Vehicle.
+
+NOTICE : BY GIVING US A SECURITY INTEREST IN THE VEHICLE DESCRIBED ABOVE, YOU WAVIE ALL RIGHTS PROVIDED BY LAW TO CLAIM THE VEHICLE EXEMPT FROM LEGAL PROCESS.
+
+> ADDITIONAL CHARGES FOR DELINQUENT PAYMENTS: if you fail to make timely payments under this Contrac, and is such delinquency requires collection efforts by us, you agree to pay reasonable collections charges and cose incurred by us, which may include specific charges for collection calls and collection letters.
+
+NOTICE TO BUYER: 1. Do not sign this Contract before you read it or if it contains any blank spaces. 2. You are entitled to an exact copy of the Contract you sign.
+
+						Buyer(s) Acknowledge(s) receipt of a fully completed
+						copy of this Contract.
+	
+	
+						*BUYER _________________________________________________
+
+
+						*BUYER _________________________________________________
+
+
+						Date of Contact : [OpenDate]

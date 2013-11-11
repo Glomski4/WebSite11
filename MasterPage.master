@@ -1,0 +1,79 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Cars</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="text-align: center">
+        <table align="left" class="style1">
+            <tr>
+                <td style="text-align: left">
+                    <asp:SiteMapPath ID="SiteMapPath1" runat="server" Font-Names="Verdana" 
+                        Font-Size="0.8em" PathSeparator=" : ">
+                        <PathSeparatorStyle Font-Bold="True" ForeColor="#990000" />
+                        <CurrentNodeStyle ForeColor="#333333" />
+                        <NodeStyle Font-Bold="True" ForeColor="#990000" />
+                        <RootNodeStyle Font-Bold="True" ForeColor="#FF8000" />
+                    </asp:SiteMapPath>
+                    <br />
+                    <asp:Menu ID="Menu1" runat="server" BackColor="#FFFBD6" 
+                        DataSourceID="SiteMapDataSource1" DynamicHorizontalOffset="2" 
+                        Font-Names="Verdana" Font-Size="Small" ForeColor="#990000" 
+                        Orientation="Horizontal" StaticSubMenuIndent="10px" 
+                        StaticDisplayLevels="2" MaximumDynamicDisplayLevels="9">
+                        <StaticSelectedStyle BackColor="#FFCC66" />
+                        <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+                        <DynamicMenuStyle BackColor="#FFFBD6" />
+                        <DynamicSelectedStyle BackColor="#FFCC66" />
+                        <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+                    </asp:Menu>
+                    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+                    <asp:MultiView ID="MultiView1" runat="server">
+                        <asp:View ID="View1" runat="server">
+                            <asp:Label ID="User" runat="server" Text="Label"></asp:Label>
+                            &nbsp;&nbsp;&nbsp;&nbsp;
+                            <asp:LinkButton ID="LinkButton1" runat="server">Logout</asp:LinkButton>
+                        </asp:View>
+                        <asp:View ID="View2" runat="server">
+                            <asp:LinkButton ID="LinkButton2" runat="server">Login</asp:LinkButton>
+                        </asp:View>
+                    </asp:MultiView>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center">
+                    <img alt="" src="fresh-car.jpg" style="width: 550px; height: 90px" /></td>
+            </tr>
+            <tr>
+                <td style="text-align: left">
+                    <hr />
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+        <br />
+        <br />
+    </div>
+    </form>
+</body>
+</html>

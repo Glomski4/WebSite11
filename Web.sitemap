@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode  title="Home" url="~\MainMenu.aspx" >
+        <siteMapNode  title="Cars" url="~\Cars\" >
+            <siteMapNode  title="Search Cars" url="~\Cars\Default.aspx" />
+            <siteMapNode  title="Car Details" url="~\Cars\CarDetails.aspx" />
+        </siteMapNode>
+        <siteMapNode  title="Loans" url="~\Loan" >
+            <siteMapNode  title="Loans Menu" url="~\Loan\Default.aspx" />
+            <siteMapNode  title="New Loan" url="~\Loan\NewLoan.aspx" />
+            <siteMapNode  title="Pending Applications" url="~\Loan\PendingApp.aspx" />
+            <siteMapNode  title="Active Loans System" url="~\Loan\ALS\" >
+                <siteMapNode  title="Loan Review / Search" url="~\Loan\ALS\Default.aspx" />
+                <siteMapNode  title="Make Payment" url="~\Loan\ALS\Payment.aspx" />
+                <siteMapNode  title="Order Document" url="~\Docs\OrderDoc.aspx" />
+                <siteMapNode  title="Payments System" url="" >
+                    <siteMapNode  title="Main Payments Page" url="~\Loan\ALS\Payments\Default.aspx" />
+                    <siteMapNode  title="Teller System" url="" >
+                        <siteMapNode  title="Main Teller Page" url="~\Loan\ALS\Payments\Teller\Default.aspx" />
+                        <siteMapNode  title="Regular Pmt Posting" url="~\Loan\ALS\Payments\Teller\Reg.aspx" />
+                        <siteMapNode  title="All Pmt Posting" url="~\Loan\ALS\Payments\Teller\All.aspx" />
+                        <siteMapNode  title="Reverse Pmt Posting" url="~\Loan\ALS\Payments\Teller\Rev.aspx" />
+                        <siteMapNode  title="Singel Pmt Posting" url="~\Loan\ALS\Payments\Teller\Sig.aspx" />
+                        <siteMapNode  title="Fee Posting" url="~\Loan\ALS\Payments\Teller\Fee.aspx" />
+                        <siteMapNode  title="Teller Box Managment" url="~\Loan\ALS\Payments\Teller\Box.aspx" />
+                    </siteMapNode>
+                </siteMapNode>
+            </siteMapNode>
+            <siteMapNode  title="Loan Officer" url="~\Loan\Officer\Default.aspx" >
+                <siteMapNode  title="Approved Loan System" url="~\Loan\Officer\O_A_Loan.aspx" />
+                <siteMapNode  title="Denied Loan System" url="~\Loan\Officer\O_D_Loan.aspx" />
+            </siteMapNode>
+        </siteMapNode>
+        <siteMapNode  title="Modification" url="~\Modification" >
+            <siteMapNode  title="Modification Menu" url="~\Modification\Default.aspx" />
+        </siteMapNode>
+        <siteMapNode  title="Shop" url="~\Shop" >
+            <siteMapNode  title="Shop Menu" url="~\Shop\Default.aspx" />
+        </siteMapNode>
+        <siteMapNode  title="Admin" url="~\AdminMenu" >
+            <siteMapNode  title="Loan Manager" url="~\AdminMenu\LoanManagment.aspx" />
+            <siteMapNode  title="My Case Work" url="~\AdminMenu\MyCaseWork.aspx" />
+        </siteMapNode>
+    </siteMapNode>
+</siteMap>

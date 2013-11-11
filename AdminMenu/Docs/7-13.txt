@@ -1,0 +1,40 @@
+﻿Loan Service Center
+6161 E. Grant Rd #24204
+Tucson, AZ 85712
+1-800-584-4690
+
+
+
+
+     (B1_First) (B1_Middle) (B1_Last) (B1_Suf)
+     (B2_First) (B2_Middle) (B2_Last) (B2_Suf)
+     (Address1)
+     (Address2)
+     (City), (State) (Zip)
+
+
+
+
+
+Dear (B1_First) (B1_Middle) (B1_Last) (B1_Suf),
+
+This letter is a reminder that your payment is past due.
+
+Your account is currenly due for (CurrPmtDue).
+
+We suspect this payment has been overlooked.  If so, please send your payment today, in full, to:
+
+                        Loan Service Center
+                        6161 E. Grant Rd #24204
+                        Tucson, AZ 85712
+
+If this payment have been paid, please disregard this letter.  As always, we thank you for your patronage and your continued support.    
+
+If you have any questions just call us 24/7 at 1-800-584-4690
+
+When you call please refer to your account number (LoanID)
+               
+
+Sincerely, 
+Loan Service Center
+Billing Department

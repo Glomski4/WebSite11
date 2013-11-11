@@ -1,0 +1,37 @@
+﻿Loan Service Center                             LOAN PAYOFF REPORT
+6161 E. Grant Rd #24204
+Tucson, AZ 85712                                This report includes all amounts known at
+1-800-584-4690                                  this time. Other amounts may apply.
+
+(B1_First) (B1_Middle) (B1_Last) (B1_Suf)
+(B2_First) (B2_Middle) (B2_Last) (B2_Suf)
+(Address1)
+(Address2)
+(City), (State) (Zip)
+
+
+                                                           Payoff Report : Form No 309(0)
+-----------------------------------------------------------------------------------------
+Dear (B1_First) (B1_Middle) (B1_Last) (B1_Suf),
+
+Amounts Due As Of Quoted Payoff Date Of : [PayoffDate]
+Description................Amounts Due
+Principal..................[Prin]
+Interest...................[IntDue]
+Late Charges...............[LcDue]
+Unpaid Fees*...............[UnpaidFee]
+Negative Escrow Balance....[NegEscrowBal]
+Net Payoff.................[Payoff]
+Per Diem...................[PeDiem]
+
+The amount listed as Net Payoff must be received in this office by close of business on [PayoffDate]. Payoffs received after this date must be increased by the Per Diem amount specified.
+
+All funds received will be credited to the loan as payment but short payoffs will NOT constitute PAYMENT IN FULL.
+
+If you have any questions just call us 24/7 at 1-800-584-4690
+When you call please refer to your account number (LoanID)
+
+                                        Thanks,
+                                        Loan Service
+
+*Unpaid Fees : This may include but not limited to, Unpaid Late Charges, Inspection Fees, Closing Cost, Deferred Interest, and/or Legal Fees.

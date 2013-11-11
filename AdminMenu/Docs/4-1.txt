@@ -1,0 +1,35 @@
+
+
+
+                                        [Name]
+                                        [Address1]
+                                        [Address2]
+                                        [CSZip]
+
+
+
+
+
+
+
+
+
+Welcome [Name],
+
+        We would like to say 'Thank You' for coming in today.
+
+        If you have anymore questions or would like to apply for a loan,
+        for one of our cars please just come in or call us at 1-800-584-4690.
+
+
+                                        Thanks,
+                                        [Agent]
+
+
+
+
+
+
+
+
+
